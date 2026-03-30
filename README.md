@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jonathan Sierra
 
-<!--
-**jsforn/jsforn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy estudiante de DESARROLLO DE APLICACIONES MÓVILES ANDROID TRAINEE V2.0 apasionado/a por la tecnología y el desarrollo.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Desarrollo de Aplicaciones Móviles Android.
+- 👩🏻‍ 💻 Trabajo con  ❤️Android 🔥Kotlin ❤️Java ❤️Rest API!
+- 👯 Busco colaboraciones con Android
+- 🤔 Buscando ayuda con integracione, SQL, AWS
+- Git & GitHub
+-💬 Puedes preguntarme sobre kotlin, java,  room, Rest Api
+- También tengo conocimientos de lenguaje C/C++, Python, soporte TI
+
+## 🎯 Intereses
+- Desarrollo de Aplicaciones Móviles
+- Desarrollo Web
+- Desarrollo de videojuegos
+- Desarrollo Ágil
+- Desarrollo de Seguridad
+
+## 📫 Contacto
+- LinkedIn: -- 
+- Email: jsfornerod@gmail.com
+- Portafolio: -- 
+
+## ✨ Dato curioso
+Me apsiona el diseño y el desarrollo de app
+
+---
+
+⭐ Este perfil fue creado como parte de mi aprendizaje en GitHub
+
+---
